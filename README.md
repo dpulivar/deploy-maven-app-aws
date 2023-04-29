@@ -1,1 +1,2 @@
-# deploy-maven-app-aws
+# MavenLogin
+A simple Maven login page
